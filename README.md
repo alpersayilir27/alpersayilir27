@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alpersayilir27
+- 👋 Hi, I’m alpersayilir
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Unreal Engine5  
 - 📫 How to reach me malper.sayilir@std.hku.edu.tr
